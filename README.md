@@ -4,7 +4,7 @@ dwm is an extremely fast, small, and dynamic window manager for X.
 
 ![](https://raw.githubusercontent.com/KiteAB/.config/master/screenshots/1.png)
 
-BTW, my scripts are in [this repository](https://github.com/KiteAB/scripts).
+BTW, my scripts are in [this repository](https://github.com/YFVE-YFANG8/scripts).
 
 Requirements
 ------------
