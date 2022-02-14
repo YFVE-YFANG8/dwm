@@ -1,4 +1,4 @@
-KiteAB's build of dwm
+YFANG8's build of dwm forked from [kiteab](https://github.com/KiteAB)
 ============================
 dwm is an extremely fast, small, and dynamic window manager for X.
 
